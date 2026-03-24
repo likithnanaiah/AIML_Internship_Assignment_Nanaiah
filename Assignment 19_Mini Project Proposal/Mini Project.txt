@@ -1,0 +1,25 @@
+Assignment (19/03/2026)
+Assignment Name: Mini Project Proposal
+Title: Smart Waste Classification System Using AI
+Problem Statement
+
+Waste segregation is often done manually, leading to incorrect disposal and environmental issues. There is a need for an automated system that can accurately classify waste into categories such as recyclable, organic, and non-recyclable.
+
+Dataset
+
+The project will use an image dataset of waste materials containing labeled images of different types of waste (plastic, paper, metal, organic, etc.). Public datasets or custom-collected images can be used for training and testing.
+
+Algorithm
+
+A Convolutional Neural Network (CNN) will be used for image classification. The model will learn patterns and features from waste images and classify them into appropriate categories.
+
+Expected Output
+The system will take an image of waste as input.
+It will output the predicted category (e.g., recyclable, organic, etc.).
+The system aims to improve accuracy and support efficient waste management.
+Learning Outcomes
+Understand how to design a machine learning project.
+Learn to select appropriate datasets and algorithms.
+Gain knowledge of image classification using CNN.
+Develop skills in problem-solving and project planning.
+Understand real-world applications of AI in sustainability.
